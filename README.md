@@ -1,7 +1,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Quanlong · AI Applications · Agents · 后端" />
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="持续学习，迭代自我 · dream of owning 1k stars" />
+  <img src="./assets/typing.svg" alt="坚持做好每一件事 · dream of owning 1k stars" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 嗨，我是 **Quanlong**，关注 **AI 应用开发、后端开发与 Agent 工程实践** 👋
 
-我喜欢从具体的生活场景出发，探索 AI 能怎样帮人完成一件事。从自然语言交互、工具调用到记忆与工作流，我关心的是把这些能力接进可用的产品，让用户看得懂过程，也能掌控结果。
+我喜欢从具体业务场景的痛点出发，探索 AI 的落地解法。我的核心关注点是探索新的开发流程和用AI重新定义软件，切实为用户创造价值。
 
 这里记录我的技术探索、代码实践与持续迭代。欢迎聊实现、聊取舍，也欢迎一起把有意思的想法做出来。
 
@@ -32,7 +32,7 @@
 | :--- | :--- |
 | **AI 与 Agent** | `LangChain` |
 | **语言** | `Python` · `Java` |
-| **后端框架** | `Spring Boot` |
+| **后端框架** | `Spring Boot` · `Flask API` · `Springcloud` |
 | **中间件** | `Redis` · `Kafka` |
 | **数据库** | `MySQL` · `SQLite` |
 | **开发工具** | `Visual Studio` · `Codex` |
@@ -49,6 +49,6 @@
 
 ---
 
-<p align="center"><sub>持续学习，迭代自我 · welcome to reach out!</sub></p>
+<p align="center"><sub>坚持做好每一件事 · welcome to reach out!</sub></p>
 
 <!-- 确定代表项目后，在 Let's connect 之前添加 Spotlight。 -->
