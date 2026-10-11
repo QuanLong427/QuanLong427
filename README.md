@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Quanlong · AI Applications · Agents · 后端" />
+<img src="./assets/banner.svg" width="100%" alt="Quanlong · AI Applications · Agents · Backend" />
 
 <p align="center">
   <img src="./assets/typing.svg" alt="坚持做好每一件事 · dream of owning 1k stars" />

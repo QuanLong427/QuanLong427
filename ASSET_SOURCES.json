@@ -3,7 +3,7 @@
   "assets": {
     "badge-ai.svg": "https://img.shields.io/badge/AI-Application%20Development-2268F7?style=for-the-badge",
     "badge-github.svg": "https://img.shields.io/badge/GitHub-QuanLong427-181717?style=for-the-badge&logo=github&logoColor=white",
-    "banner.svg": "https://capsule-render.vercel.app/api?type=waving&color=0:2268F7,100:5EEAD4&height=200&section=header&text=Quanlong&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=AI%20Applications%20%C2%B7%20Agents%20%C2%B7%20%E5%90%8E%E7%AB%AF&descSize=19&descAlignY=60&animation=fadeIn",
+    "banner.svg": "https://capsule-render.vercel.app/api?type=waving&color=0:2268F7,100:5EEAD4&height=200&section=header&text=Quanlong&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=AI%20Applications%20%C2%B7%20Agents%20%C2%B7%20Backend&descSize=19&descAlignY=60&animation=fadeIn",
     "typing.svg": "https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=24&pause=1800&color=2268F7&center=true&vCenter=true&width=560&lines=%E5%9D%9A%E6%8C%81%E5%81%9A%E5%A5%BD%E6%AF%8F%E4%B8%80%E4%BB%B6%E4%BA%8B;dream%20of%20owning%201k%20stars",
     "tech-stack.svg": "Composed locally from the base Skill Icons SVG, Simple Icons LangChain glyph and Lobe Icons Codex glyph; see profile-preview/build-tech-stack.py",
     "badge-email.svg": "https://img.shields.io/badge/Email-zql7377%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white",
