@@ -30,9 +30,9 @@
 
 | 方向 | 技术与工具 |
 | :--- | :--- |
-| **AI 与 Agent** | `LangChain` |
+| **AI 与 Agent** | `LangChain` · `LangGraph` |
 | **语言** | `Python` · `Java` |
-| **后端框架** | `Spring Boot` · `Flask API` · `Springcloud` |
+| **后端框架** | `Spring Boot` · `Flask` · `Springcloud` |
 | **中间件** | `Redis` · `Kafka` |
 | **数据库** | `MySQL` · `SQLite` |
 | **开发工具** | `Visual Studio` · `Codex` |
