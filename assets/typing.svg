@@ -15,23 +15,9 @@
 }
 </style>
 
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d1.end'
-                    dur='6800ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h560 ; m0,25 h560 ; m0,25 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
-                    </path>
-    <text font-family='"Nunito", monospace' fill='#2268F7' font-size='24'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            时间会证明AI和算力的
-        </textPath>
-    </text>
         <path id='path1'>
                             <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
+                                <animate id='d1' attributeName='d' begin='0s;d1.end'
                     dur='6800ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h560 ; m0,25 h560 ; m0,25 h0' keyTimes='0;0.58823529411765;0.85294117647059;1' />
                     </path>

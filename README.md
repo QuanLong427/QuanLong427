@@ -1,7 +1,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Quanlong · AI Applications · Agents · Backend" />
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="时间会证明AI和算力的 · dream of owning 1k stars" />
+  <img src="./assets/typing.svg" alt="dream of owning 1k stars" />
 </p>
 
 <p align="center">
@@ -49,6 +49,6 @@
 
 ---
 
-<p align="center"><sub>时间会证明AI和算力的 · welcome to reach out!</sub></p>
+<p align="center"><sub>welcome to reach out!</sub></p>
 
 <!-- 确定代表项目后，在 Let's connect 之前添加 Spotlight。 -->
